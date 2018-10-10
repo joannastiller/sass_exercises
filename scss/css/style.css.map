@@ -1,0 +1,12 @@
+{
+    "version": 3,
+    "mappings": "AGAA,AAAA,CAAC,CAAC;EACE,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,CAAC;CACb;;AAED,AACI,GADD,CACC,EAAE,CAAC;EDLH,OAAO,EAAE,IAAI;EACb,cAAc,ECKQ,GAAG;EDJzB,eAAe,ECIY,YAAY;EACnC,UAAU,EAAE,IAAI;CAqBnB;;AAxBL,AAKQ,GALL,CACC,EAAE,CAIE,EAAE,CAAC;EACC,KAAK,EAAE,GAAG;CAiBb;;AAvBT,AAQY,GART,CACC,EAAE,CAIE,EAAE,CAGE,CAAC,CAAC;EACE,OAAO,EAAE,KAAK;EACd,WAAW,EAAE,IAAI;EACjB,UAAU,EAAE,MAAM;EAClB,eAAe,EAAE,IAAI;EACrB,gBAAgB,EAAE,OAAO;EACzB,KAAK,EFnBR,IAAI;EEoBD,WAAW,EAAE,KAAK;EAClB,cAAc,EAAE,SAAS;EACzB,UAAU,EAAE,GAAG;CAKlB;;AAtBb,AAmBgB,GAnBb,CACC,EAAE,CAIE,EAAE,CAGE,CAAC,AAWI,MAAM,CAAC;EACJ,gBAAgB,EAAE,GAAG;CACxB",
+    "sources": [
+        "../Zadanie2-Start/scss/style.scss",
+        "../Zadanie2-Start/scss/_variables.scss",
+        "../Zadanie2-Start/scss/_mixins.scss",
+        "../Zadanie2-Start/scss/_nav1.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
